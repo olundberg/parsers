@@ -1,0 +1,10 @@
+(function() {
+nativendo_5975ae13617f1_init={'q':[''],'s':'https://d.suntcontent.se/cds/delivery/init/'};
+var s= document.createElement('script');
+s.type='text/javascript';
+s.async=true;
+s.setAttribute('data-nativendo-init', '5975ae13617f1');
+s.src='https://c.suntcontent.se/cdn/asset/js/init.js?v=1309';
+var sc=document.getElementsByTagName('script')[0];
+sc.parentNode.insertBefore(s,sc);
+})();

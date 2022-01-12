@@ -1,3 +1,4 @@
+"""Parser for data from hockeyettan"""
 import pandas as pd
 from bs4 import BeautifulSoup
 import datetime

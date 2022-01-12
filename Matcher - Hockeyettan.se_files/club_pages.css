@@ -1,0 +1,1111 @@
+#club-page {
+	background-size: 100% auto;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+#club-content {
+	margin-top: 25px;
+	margin-bottom: 30px;
+	padding: 25px 30px;
+	background: #f5f5f5;
+}
+
+#club-content .group-standings .dropdown {
+	width: 100%;
+}
+
+#club-page #tbGameList .filter-wrapper {
+	display: none;
+}
+
+#club-page #tbGameList .blog-footer {
+	display: none;
+}
+
+#club-content .post-list .contentBox {
+	margin-top: 20px;
+}
+
+#club-page .filter-wrapper .dropdown {
+	background-color: #006cb5;
+}
+
+#club-page.mobile-menu-dark .mMenu .menu-line {
+	background-color: #000;
+}
+
+.video-box {
+	text-align: center;
+	margin-top: 0;
+	padding: 20px 30px !important;
+}
+
+.video-box .video-box-title {
+	text-transform: uppercase;
+}
+
+.video-box .video-box-grid {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.video-box .video-wrap {
+	text-align: left;
+}
+
+.video-box-grid .video-box-img {
+	height: 150px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	background-color: #ddd;
+}
+
+.video-box-grid .video-box-img.logo-background {
+	background-repeat: no-repeat;
+	background-size: 110px;
+}
+
+.video-box-grid .post-format-indicator {
+	background: #fff;
+	width: 30px;
+	height: 30px;
+}
+
+.video-box-grid .post-format-indicator i {
+	color: #00007f;
+	font-size: 10px !important;
+}
+
+.video-box .video-wrap a {
+	color: #000;
+}
+
+.video-box .video-wrap h5 {
+	color: #000;
+	line-height: 1.2;
+	margin-top: 5px;
+}
+
+.club-sponsors {
+	padding: 20px 30px;
+	text-align: center;
+}
+
+.club-sponsors-title {
+	margin-bottom: 15px;
+}
+
+.club-social-media {
+	text-transform: uppercase
+}
+
+.club-social-media i {
+	font-size: 32px;
+	color: #00007f;
+}
+
+.club-social-media strong {
+	float: left;
+}
+
+.club-social-media ul {
+	margin-left: 10px;
+	margin-top: -4px;
+	display: inline-block;
+}
+
+.club-social-media li {
+	margin-right: 5px;
+	display: inline-block;
+}
+
+.page-template-klubb-startsida #site-header {
+	background: none;
+}
+
+.page-template-klubb-startsida .group-standings .filter-wrapper {
+	margin-bottom: 0;
+}
+
+.page-template-klubb-startsida .group-standings-content .tbGroupStandingsPageMultipleList {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
+#club_page_menu {
+	background-color: #00007f;
+}
+
+#club_page_menu ul li {
+	display: inline-block;
+	border-right: 1px solid #fff;
+}
+
+#club_page_menu ul li a {
+	color: #fff;
+	padding: 18px 20px;
+	text-transform: uppercase;
+	display: block;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: normal;
+}
+
+#club_page_menu ul li.page_item_has_children > a {
+	position: relative;
+	padding-right: 50px;
+}
+
+
+
+#club_page_menu ul li > a span {
+	display: none;
+}
+
+#club_page_menu ul li.page_item_has_children > a:after {
+	content: "\f107";
+	font-family: "FontAwesome";
+	font-weight: normal;
+	position: absolute;
+	right: 20px;
+	font-size: 24px;
+	top: 15px;
+}
+
+
+#club_page_menu ul li.page_item_has_children > ul {
+	padding: 20px 7px;
+	position: absolute;
+	background: #fff;
+	width: 200px;
+	z-index: 100;
+	box-shadow: 2px 3px 8px rgba(0,0,0,0.3);
+}
+
+#club_page_menu ul li.page_item_has_children > ul > li a {
+	color: #00007f;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+#club_page_menu ul li.page_item_has_children > ul > li a:hover {
+	background-color: #efefef;
+	text-decoration: none;
+}
+
+#club_page_menu ul ul {
+		display: none;
+}
+
+#club_page_logo {
+	max-width: 240px;
+	max-height: 130px;
+	height: auto;
+	width: auto;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+#club-page .group-standings .dropdown select {
+	font-size: 14px;
+	font-weight: 800;
+}
+
+#club-page-stats-section .contentBox h3,
+#frontpage-stats .contentBox h3 {
+	padding: 12px 20px 6px 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 16px;
+}
+
+#club-page-stats-section .contentBox h3 span,
+#frontpage-stats .contentBox h3 span {
+	font-weight: 400;
+	font-size: 13px;
+}
+
+#club-page-stats-section .contentBox a.arrow-link,
+#frontpage-stats .contentBox a.arrow-link {
+	display: block;
+	padding: 12px 20px;
+}
+
+.page-template-klubb-startsida .top-header,
+.page-template-klubb-undersida .top-header {
+		background-color: #000000;
+		padding-top: 0;
+		padding-bottom: 0;
+}
+
+.page-template-klubb-startsida .top-header .top-header-left,
+.page-template-klubb-undersida .top-header .top-header-left {
+		text-align: left;
+}
+
+.page-template-klubb-startsida .top-header .top-header-left img,
+.page-template-klubb-undersida .top-header .top-header-left img {
+		width: 110px;
+		height: auto;
+		display: block;
+}
+
+#header-arrow-left {
+	width: 14px;
+	height: auto;
+	float: left;
+	margin-top: 15px;
+	margin-right: 10px;
+}
+
+.page-template-klubb-startsida .top-menu,
+.page-template-klubb-undersida .top-menu {
+		margin-top: 8px !important;
+}
+
+.page-template-klubb-startsida .top-menu-wrapper,
+.page-template-klubb-undersida .top-menu-wrapper {
+		top: 40px;
+}
+
+.page-template-klubb-startsida #footer,
+.page-template-klubb-undersida #footer {
+		margin-top: 0;
+		background-color: #1c1c1c;
+}
+
+.page-template-klubb-startsida .sub-footer,
+.page-template-klubb-undersida .sub-footer {
+		background-color: #1c1c1c;
+}
+
+
+.page-template-klubb-startsida .sub-footer .sponsors-footer,
+.page-template-klubb-undersida .sub-footer .sponsors-footer {
+		background-color: #000000;
+}
+
+.page-template-klubb-startsida #footer .before-footer:after,
+.page-template-klubb-undersida #footer .before-footer:after {
+		background-color: #333333;
+}
+
+.page-template-klubb-startsida #footer .before-footer,
+.page-template-klubb-undersida #footer .before-footer {
+	border-bottom-color: #000;
+}
+
+.page-template-klubb-startsida #footer,
+.page-template-klubb-undersida #footer {
+	text-align: left;
+	padding-top: 30px;
+}
+
+.page-template-klubb-startsida .club-social-media.social-media-footer ul,
+.page-template-klubb-undersida .club-social-media.social-media-footer ul {
+	margin-left: 0;
+	margin-top: 5px;
+}
+
+.page-template-klubb-startsida .club-social-media.social-media-footer ul i,
+.page-template-klubb-undersida .club-social-media.social-media-footer ul i {
+	color: #fff !important;
+}
+
+#club-page .group-standings .group-row .group-team {
+	max-width: 90px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.group-standings .group-row .group-team a {
+	color: #000;
+}
+
+#club-page .pageContent {
+	margin-bottom: 40px;
+	padding-top: 40px;
+}
+
+#club-page .club-sponsors .swiper-container {
+	padding-bottom: 40px;
+}
+
+#club-page .club-sponsors .swiper-container .swiper-slide {
+	width: 16.66%
+}
+
+#club-page .club-sponsors .club-sponsors-wrapper {
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;
+}
+
+#club-page .club-sponsors .club-sponsors-wrapper .swiper-button-next {
+	width: 35px;
+	height: 35px;
+	background: url("../../images/pag-arrow-right.png");
+	background-size: 35px;
+	background-position: center;
+	right: 20px;
+}
+
+#club-page .club-sponsors .club-sponsors-wrapper .swiper-button-prev {
+	width: 35px;
+	height: 35px;
+	background: url("../../images/pag-arrow-left.png");
+	background-size: 35px;
+	background-position: center;
+	left: 20px;
+}
+
+.swiper-wrapper {
+  align-items: center;
+}
+
+#club_footer_logo {
+	/*
+	width: 185px;
+	height: auto;
+	*/
+	
+	max-width: 240px;
+	max-height: 130px;
+	height: auto;
+	width: auto;
+	
+	margin-bottom: 30px;
+}
+
+#frontpage-stats .team-stats .team-stat-row .team-team {
+	width: 95px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#frontpage-stats .team-stats .team-stat-row {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#frontpage-stats .contentBox h3 {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 0;
+}
+
+#frontpage-stats .team-stats .team-stat-row .team-place {
+	width: 25px;
+}
+
+
+
+#club-page .player-leaderboards .filter-wrapper,
+#frontpage-stats .player-leaderboards .filter-wrapper {
+	display: none;
+}
+
+#club-page .player-leaderboards .player-row:nth-child(odd),
+#frontpage-stats .player-leaderboards .player-row:nth-child(odd) {
+	background-color: #ededed;
+}
+
+#club-page .player-leaderboards .player-row .player-info,
+#frontpage-stats .player-leaderboards .player-row .player-info {
+	margin-top: 0;
+}
+
+#club-page .player-leaderboards .player-row .player-info h3,
+#frontpage-stats .player-leaderboards .player-row .player-info h3 {
+	font-weight: normal;
+	font-size: 13px;
+	text-transform: none;
+	padding: 0;
+	max-width: 115px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#club-page .player-leaderboards .player-row .player-info small,
+#frontpage-stats .player-leaderboards .player-row .player-info small {
+	display: none;
+}
+
+#club-page .player-leaderboards .player-row .player-points,
+#frontpage-stats .player-leaderboards .player-row .player-points {
+	margin-top: 0;
+}
+
+#club-page .player-leaderboards .player-row .player-points span,
+#frontpage-stats .player-leaderboards .player-row .player-points span {
+	display: none;
+}
+
+#club-page .player-leaderboards .player-row .player-points strong,
+#frontpage-stats .player-leaderboards .player-row .player-points strong {
+	font-size: 13px;
+}
+
+#club-page .player-leaderboards .advanced-stats,
+#frontpage-stats .player-leaderboards .advanced-stats {
+	box-shadow: none !important;
+	margin-top: 0 !important;
+}
+
+#club-page .player-leaderboards .table-title,
+#frontpage-stats .player-leaderboards .table-title {
+	text-align: right;
+	font-size: 14px;
+	padding-right: 20px;
+	margin-bottom: 5px;
+}
+
+#club-page #club-ads-wrapper {
+	width: 300px;
+}
+
+#club-page #club-ads-wrapper .club-ad-item {
+	margin-top: 15px;
+}
+
+#club-page #club-ads-wrapper .club-ad-item img {
+	display: block;
+}
+
+#club-page .games .game-list-item div.screen {
+	width: 200px !important;
+}
+
+.games .game-list-item div.link a {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.top-header #top-menu-club-select {
+	margin-top: 8px;
+	position: relative;
+}
+
+#menu-sitemenu #top-menu-club-select a span {
+	margin-left: 10px;
+}
+
+#top-menu-club-select-wrapper {
+	padding: 0 30px 0 30px;
+	background-color: #fff;
+	position: absolute;
+	top: 1px;
+	right: 0;
+	z-index: 100;
+	box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
+	width: 100%;
+	color: #000;
+	text-align: left;
+	display: none;
+}
+
+#top-menu-club-select-wrapper .club-select-tournament-group {
+	margin-bottom: 20px;
+}
+
+#top-menu-club-select-wrapper .club-select-tournament-group > h4 {
+	margin-bottom: 20px;
+}
+
+#top-menu-club-select-wrapper .club-select-tournament-group-teams-list {
+	-webkit-columns: auto 2;
+   		-moz-columns: auto 2;
+        	columns: auto 2;
+}
+
+#top-menu-club-select-wrapper .club-select-tournament-group-teams-list li {
+	margin-bottom: 10px;
+}
+
+#top-menu-club-select-wrapper .club-select-tournament-group-teams-list li > div,
+#top-menu-club-select-wrapper .club-select-tournament-group-teams-list li > a {
+	text-transform: none;
+	color: #000;
+	font-weight: normal;
+	font-size: 13px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#top-menu-club-select-wrapper .club-select-tournament-group-teams-list img {
+	height: 30px;
+	width: 30px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+#top-menu-club-select-wrapper-inner {
+	margin-top: 30px;
+}
+
+.players-grid .position-group-title {
+	text-transform: uppercase;
+	margin-bottom: 15px !important;
+	margin-top: 20px;
+}
+
+.players-grid .player-item {
+	box-shadow: 0 0 4px rgba(0,0,0,0.3);
+	margin-bottom: 20px !important;
+}
+
+.players-grid .player-item-data {
+	padding: 15px 20px;
+	text-align: center;
+}
+
+.players-grid .player-item-meta {
+	font-size: 14px;
+	line-height: 1.3;
+}
+
+.players-grid .player-item-name {
+	font-size: 14px;
+	font-weight: normal;
+	text-transform: uppercase;
+	height: 55px;
+}
+
+.players-grid .player-item-name span {
+	font-size: 16px;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.players-grid .player-item-image {
+	background-color: #ededed;
+	height: 240px;
+	position: relative;
+	background-size: cover;
+	background-position: top center;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 1.2;
+	padding-top: 23px;
+}
+
+.players-grid .player-item-image .no-player-img {
+	width: 125px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+.players-grid .no-img-text {
+	line-height: 1.2;
+}
+
+.players-grid .player-item-image span {
+	background-color: #f5f5f5;
+	font-weight: bold;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	color: #000;
+	text-align: center;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+}
+
+.frontpage-stats-button {
+	background-color: #008de9;
+	padding: 15px 0;
+	text-align: center;
+	display: block;
+	font-size: 14px;
+	color: #fff;
+	margin-top: 30px;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+.frontpage-stats-button:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.page-template-klubb-startsida .hockeyettan-footer-logo,
+.page-template-klubb-undersida .hockeyettan-footer-logo {
+	width: 20%;
+	display: inline-block !important;
+}
+
+.page-template-klubb-startsida .hockeyettan-footer-logo img,
+.page-template-klubb-undersida .hockeyettan-footer-logo img {
+	width: 110px;
+	position: relative;
+	top: 35px;
+}
+
+.page-template-klubb-startsida .sub-footer .sponsors-footer .mainSponsors, 
+.page-template-klubb-startsida .sub-footer .sponsors-footer .otherSponsors,
+.page-template-klubb-undersida .sub-footer .sponsors-footer .mainSponsors, 
+.page-template-klubb-undersida .sub-footer .sponsors-footer .otherSponsors {
+	width: 32% !important;
+}
+
+#club_page_wide_banner {
+	margin-top: 30px;
+}
+
+.single-game-links {
+	margin-top: 15px !important;
+}
+
+.single-game-links a {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.lg-backdrop {
+	background-color: rgba(0,0,0,0.4);
+}
+
+.club_newsfeed_shortcode_wrapper #tbNewsFilter {
+	display: none;
+}
+
+
+.club_newsfeed_shortcode_wrapper .blog-footer .blog-footer-btn a.arrow-link {
+	color: #fff !important;
+}
+
+.live-teableau .live-tableau-sidebar {
+	float: left;
+	width: 25%;
+}
+
+.live-teableau .live-tableau-sidebar a {
+	display: block;
+	padding: 15px 10px;
+	text-align: center;
+	border-bottom: 1px solid #e6e6e6;
+	line-height: auto;
+	font-weight: bold;
+	color: #000;
+	text-transform: uppercase;
+}
+
+.live-teableau .live-tableau-sidebar a.active {
+	color: #fff;
+	background-color: #008de9;
+	border-color: #008de9;
+}
+
+.live-teableau .live-tableau-main {
+	float: right;
+	width: 75%;
+	border-left: 1px solid #e6e6e6;
+}
+
+.live-teableau .time-wrapper-header {
+	padding: 15px 30px;
+	background-color: #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.live-teableau .box-header h3 {
+	margin-bottom: 20px;
+}
+
+.live-teableau .box-header h3 span {
+	background-color: #008de9;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	border-radius: 50%;
+	margin-right: 10px;
+	display: inline-block;
+	line-height: 40px;
+}
+
+.live-teableau .box-header h3 i {
+	color: #fff;
+	position: relative;
+	left: 2px;
+	font-size: 16px;
+	top: -1px;
+}
+
+.live-teableau .match-wrapper {
+	padding: 30px 10px;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.live-teableau .match-wrapper:last-child {
+	border-bottom: none;
+}
+
+.live-teableau .match-wrapper-main {
+	float: left;
+	width: 460px;
+}
+
+.live-teableau .match-wrapper-main div.screen {
+	width: 145px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.match-wrapper-livelink {
+	float: left;
+	padding-top: 10px;
+}
+
+.match-wrapper-matchlink {
+	float: left;
+	margin-left: 10px;
+	padding-top: 10px;
+}
+
+.team-stats .team-stat-row .team-team a {
+	color: #000;
+}
+
+.is-dynamic-news-page .pageContent {
+	padding: 0 !important;
+}
+
+.is-dynamic-news-page .post-image img {
+	width: 100%;
+	display: block;
+}
+
+.is-dynamic-news-page .blog-footer a {
+	color: #fff !important;
+}
+
+
+@media only screen and (min-width: 1366px) and (max-width: 1439px) {
+	.live-teableau .match-wrapper-main {
+		width: 440px;
+	}
+	
+	.live-teableau .match-wrapper-main div.screen {
+		width: 135px;
+	}
+}
+
+@media only screen and (min-width: 1366px) {
+	.club-footer-columns > div:first-child {
+		margin-left: 16% !important;
+	}
+}
+
+@media only screen and (max-width: 1023px) {
+	.frontpage-stats-button {
+		margin-top: 20px;
+	}
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+	.live-teableau .match-wrapper-main {
+		width: 64%;
+	}
+	
+	.live-teableau .match-wrapper-main div.screen {
+		width: 33%;
+	}
+	
+	.club-footer-columns > div:first-child {
+		margin-left: 13% !important;
+	}
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+	.live-teableau .match-wrapper-main {
+		width: 60%;
+	}
+	
+	.live-teableau .match-wrapper-main div.screen {
+		width: 30%;
+	}
+	
+	#club-page-stats-section .contentBox h3 {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	#club-page-stats-section .contentBox a.arrow-link {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	
+	.player-leaderboards .player-row {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	
+	.club-footer-columns > div:first-child {
+		margin-left: 10% !important;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	.live-teableau .match-wrapper {
+		text-align: center;
+	}
+	
+	.live-teableau .match-wrapper-main div.screen {
+		width: 170px;
+	}
+	
+	.live-teableau .match-wrapper-main {
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+	
+	.live-teableau .match-wrapper-livelink,
+	.live-teableau .match-wrapper-matchlink {
+		float: none;
+		display: inline-block;
+	}
+	
+	#frontpage-stats .team-stats .team-stat-row .team-team {
+		width: 200px;
+	}
+}
+
+@media only screen and (min-width: 901px) and (max-width: 1023px) {	
+	.club-footer-columns > div:first-child {
+		margin-left: 10% !important;
+	}
+}
+
+@media only screen and (max-width: 1023px) {
+	.page-template-klubb-startsida .video-box {
+		margin-top: 20px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 900px) {	
+	.club-footer-columns > div:first-child {
+		margin-left: 8% !important;
+	}
+	
+	.games .game-list-item div.link a {
+		margin-left: 2px;
+		margin-right: 2px;
+	}
+	
+	#club-page .club-sponsors .swiper-container .swiper-slide {
+		width: 25%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	#club_page_menu ul li.page_item_has_children > ul {
+		display: none !important;
+	}
+	
+	#club_page_menu ul li.page_item_has_children:hover > ul {
+		display: block !important;
+	}
+
+	#club_page_menu ul li.page_item_has_children:hover > ul > li {
+		display: block;
+		border: none;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.live-teableau .live-tableau-sidebar {
+		float: none;
+		width: 100%;
+	}
+	
+	.live-teableau .live-tableau-main {
+		float: none;
+		width: 100%;
+	}
+	
+	.live-teableau .match-wrapper-main {
+		width: 100%;
+	}
+	
+	.live-teableau .match-wrapper-livelink,
+	.live-teableau .match-wrapper-matchlink {
+		float: none;
+		display: inline-block;
+	}
+	
+	.live-teableau .match-wrapper {
+		text-align: center;
+	}
+	
+	#club_page_logo {
+		max-width: 150px;
+		max-height: 80px;
+	}
+	
+	#club_page_menu {
+		display: none;
+	}
+	
+	#club_page_menu ul li {
+		display:  block;
+		border-right: none;
+		border-bottom: 1px solid #fff;
+	}
+	
+	#club_page_menu ul li:last-child {
+		border-bottom: none;
+	}
+
+	#club_page_menu ul li a {
+		text-align: center;
+	}
+	
+	#club_page_menu ul li.page_item_has_children > a {
+		padding-right: 20px;
+	}
+	
+	#club_page_menu ul li.page_item_has_children > a:hover {
+		text-decoration: none;
+	}
+	
+	#club_page_menu ul li.page_item_has_children > ul {
+		position: static;
+		width: 100%;
+		display: none;
+		box-shadow: none;
+	}
+	
+	#club_page_menu ul li.page_item_has_children > a span {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		width: 60px;
+		display: block;
+		border-left: 1px solid rgba(255,255,255,0.2);
+	}
+
+	#club_page_menu ul li.page_item_has_children > a span i {
+		font-size: 28px;
+		margin-top: 13px;
+		color: #fff;
+	}
+	
+	#club_page_menu ul li.page_item_has_children > a:after {
+		display: none;
+	}
+	
+	#club_page_menu ul li.page_item_has_children.current_page_ancestor > ul {
+		display: block;
+	}
+	
+	#club_page_menu ul li.page_item_has_children.current_page_ancestor > a > span i {
+		transform: rotate(180deg);
+	}
+	
+	#club_page_menu ul li.current_page_item > a {
+		text-decoration: underline;
+	}
+	
+	#club-page .mMenu {
+		top: 40px;
+	}
+	
+	.page-template-klubb-startsida #site-header,
+	.page-template-klubb-undersida #site-header {
+		z-index: 500;
+	}
+	
+	.club-footer-columns {
+		text-align: center;
+	}
+	
+	#footer .col-md-3 {
+		display: block;
+		text-align: center;
+	}
+	
+	.page-template-klubb-startsida .sub-footer .sponsors-footer .mainSponsors, 
+	.page-template-klubb-startsida .sub-footer .sponsors-footer .otherSponsors,
+	.page-template-klubb-undersida .sub-footer .sponsors-footer .mainSponsors, 
+	.page-template-klubb-undersida .sub-footer .sponsors-footer .otherSponsors {
+		width: 100% !important;
+		display: block;
+		margin-bottom: 30px;
+	}
+	
+	.page-template-klubb-startsida .hockeyettan-footer-logo img, 
+	.page-template-klubb-undersida .hockeyettan-footer-logo img {
+		position: static;
+		margin-bottom: 25px;
+	}
+	
+	.games .game-list-item div.link a {
+		margin-left: 0;
+		margin-right: 0;
+		display: block;
+	}
+	
+	#club-page .club-sponsors .swiper-container .swiper-slide {
+		width: 100%;
+	}
+	
+	#club-page .club-sponsors .swiper-pagination.swiper-pagination-bullets {
+		bottom: 0;
+	}
+	
+	.page-template-klubb-startsida .video-box .video-wrap {
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.page-template-klubb-startsida .post-list .post-list-item .post-content {
+		width: 60%;
+	}
+	
+	#club-content {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	
+	#club-content #tbGameList .tabToggle {
+		padding-left: 5px;
+		padding-right: 5px;
+		line-height: 1.3;
+		font-size: 11px;
+	}
+	
+	#club-content .games .game-list-item div.team {
+		width: 55px;
+		font-size: 14px !important;
+	}
+	
+	#club-content .games .game-list-item div.score {
+		font-size: 16px !important;
+	}
+	
+	#club-content .games .game-list-item img {
+		height: 30px;
+	}
+	
+	#club-content .games .game-list-item div.home-logo {
+		padding-right: 5px;
+	}
+	
+	#club-content .games .game-list-item div.guest-logo {
+		padding-left: 5px;
+	}
+}
